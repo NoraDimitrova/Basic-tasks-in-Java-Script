@@ -5,3 +5,4 @@ this is test repo with basic tasks in Java Script
 
 
 Hi, there!
+I am Kiki. Nice to meet you!
