@@ -1,0 +1,4 @@
+BiggestOfThree.js	   NewTask.js		  README.md	       test.txt
+JavaScriptTaskExercice.js  NotDivisibleNumber.js  SortThreeNumbers.js
+
+I am Nora and T test how to work with GitBash.
