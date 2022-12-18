@@ -22,6 +22,8 @@ function word(input) {
             console.log("Not a digit")
     }
 
+    console.log("The task finish")
+
 }
 
 word(["5"]);
