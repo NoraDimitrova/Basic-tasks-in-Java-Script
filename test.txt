@@ -1,0 +1,2 @@
+BiggestOfThree.js	   NewTask.js		  README.md	       test.txt
+JavaScriptTaskExercice.js  NotDivisibleNumber.js  SortThreeNumbers.js
